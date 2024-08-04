@@ -1,5 +1,3 @@
-# Netflix_Dashboard
-
 # Netflix Dashboard
 
 This project is a Netflix Dashboard created using Power BI, utilizing a dataset containing various parameters such as show ID, type, title, director, cast, country, release year, rating, duration, listed end, description, and more.
